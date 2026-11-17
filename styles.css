@@ -409,3 +409,8 @@ footer p {
     margin: 8px;
   }
 }
+.MyName {
+  font-size: large;
+  text-decoration: underline;
+  color: rgb(69, 69, 190);
+}
